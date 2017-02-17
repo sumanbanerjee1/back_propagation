@@ -1,5 +1,5 @@
 # back_propagation
-A generic artificial neural network , that can be trained by using backpropagation and different optimization algorithms. 
+A generic artificial neural network for the MNIST data , that can be trained by using backpropagation and different optimization algorithms. 
 Given an input image (28 x 28 = 784 pixels) from the MNIST dataset, the network will be trained to classify the image into
 1 of 10 classes (10 digits). The implementation supports the use of the following hyper-parameters/options :
 • --lr (initial learning rate η for gradient descent based algorithms)
