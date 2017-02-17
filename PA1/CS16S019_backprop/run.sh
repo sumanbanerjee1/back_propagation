@@ -1,0 +1,1 @@
+python train.py --lr 0.001 --momentum 0.9 --num_hidden 1 --sizes 800 --activation sigmoid --loss ce --opt nag --batch_size 100 --anneal true --save_dir /home/suman/PA1/CS16S019_backprop/save_dir --expt_dir /home/suman/PA1/CS16S019_backprop/expt_dir --mnist /home/suman/PA1/CS16S019_backprop/data/mnist.pkl.gz
